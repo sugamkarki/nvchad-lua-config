@@ -1,4 +1,6 @@
+cst to auto rename tags
 To Install: 
+
 
 :MasonInstallAll
 
